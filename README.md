@@ -2,17 +2,17 @@ OpenCart Manual Testing Project:
 Project Overview:
 Manual testing project performed on OpenCart e-commerce website.
 
-~Testing Activities~
+Testing Activities
 .Test Scenario Preparation
 .Test Case Design
 .Test Execution
 .Bug Reporting
 
-~Modules Tested~
+Modules Tested
 1)User Registration
 2)Product Search
 
-~Deliverables~
+Deliverables
 .Test Cases
 .Test Execution Report
 .Bug Report
